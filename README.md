@@ -18,7 +18,7 @@ or if you don't have yarn locally, run:\
 
 <br>
 
-To open the project using localhost:3000 you can run:\
+To open the project on localhost:5001 you can run:\
 `node server.js`  
   
 Open [http://localhost:5001](http://localhost:5001) to view it in your browser.  
